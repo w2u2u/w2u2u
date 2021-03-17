@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 ``` javascript
-const username = "warunyu".replace(/( *?[^uwUW] *?){2,}/gm, "2");
+const firstname = "warunyu";
+const lastname = "jaimuang";
+const nickname = "pon" || "pond";
+const username = firstname.replace(/( *?[^uwUW] *?){2,}/gm, "2");
+const email = `${firstname}.${nickname}@gmail.com`;
 ```
 
 <!--
