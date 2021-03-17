@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+``` javascript
+const username = "warunyu".replace(/( *?[^uwUW] *?){2,}/gm, "2");
+```
+
 <!--
 **w2u2u/w2u2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
