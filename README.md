@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w2u2u&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w2u2u&theme=github-compact&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
