@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w2u2u&theme=github-compact&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=w2u2u)](https://github.com/anuraghazra/github-readme-stats)
