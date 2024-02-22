@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w2u2u&theme=github-compact&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w2u2u&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=w2u2u?theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w2u2u&langs_count=15&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=w2u2u&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
