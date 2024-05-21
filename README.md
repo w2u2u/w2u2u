@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm a 📚 learner and 📖 enthusiast in ⌨️ coding
+- Love dabbling in various programming languages like 🦀 Rust, 🐭 Go, 💧 Elixir, and ⚡ Zig
+- Mostly been in 👨‍💻 Typescript and 🌐 web tech scene
