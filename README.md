@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - I'm a 📚 learner and 📖 enthusiast in ⌨️ coding
 - Love dabbling in various programming languages like 🦀 Rust, 🐭 Go, 💧 Elixir, and ⚡ Zig
 - Mostly been in 👨‍💻 Typescript and 🌐 web tech scene
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w2u2u&theme=catppuccin_mocha&layout=compact&hide=javascript,java,lua,ruby,kotlin,html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=w2u2u&theme=catppuccin_mocha&layout=compact&hide=javascript,java,lua,ruby,kotlin,html,css)
