@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w2u2u&theme=catppuccin_mocha&layout=compact&hide=javascript,java,lua,ruby,kotlin,html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=w2u2u&theme=catppuccin_mocha&layout=compact&hide=javascript,java,lua,ruby,kotlin,html,css)
+
+---
+
+> You can't control the wind, but you can adjust your sails.
