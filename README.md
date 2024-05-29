@@ -1,3 +1,7 @@
+> You can't control the wind, but you can adjust your sails.
+
+---
+
 ### Hi there 👋
 
 <!--
@@ -25,4 +29,4 @@ Here are some ideas to get you started:
 
 ---
 
-> You can't control the wind, but you can adjust your sails.
+> The limits of my language mean the limits of my world.
