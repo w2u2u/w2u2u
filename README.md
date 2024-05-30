@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm a 📚 learner and 📖 enthusiast in ⌨️ coding
-- Love dabbling in various programming languages like 🦀 Rust, 🐭 Go, 💧 Elixir, and ⚡ Zig (and ⭐ gleam)
+- Love dabbling in various programming languages like 🦀 Rust, 🐭 Go, 💧 Elixir, and ⚡ Zig (and ⭐ Gleam)
 - Mostly been in 👨‍💻 Typescript and 🌐 web tech scene
 
 ---
